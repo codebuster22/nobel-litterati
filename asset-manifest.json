@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/open-nft-marketplace/static/css/main.4de67b71.chunk.css",
-    "main.js": "/open-nft-marketplace/static/js/main.719d79d4.chunk.js",
-    "main.js.map": "/open-nft-marketplace/static/js/main.719d79d4.chunk.js.map",
-    "runtime-main.js": "/open-nft-marketplace/static/js/runtime-main.da89fa50.js",
-    "runtime-main.js.map": "/open-nft-marketplace/static/js/runtime-main.da89fa50.js.map",
-    "static/css/2.37c27f5c.chunk.css": "/open-nft-marketplace/static/css/2.37c27f5c.chunk.css",
-    "static/js/2.07a28ef8.chunk.js": "/open-nft-marketplace/static/js/2.07a28ef8.chunk.js",
-    "static/js/2.07a28ef8.chunk.js.map": "/open-nft-marketplace/static/js/2.07a28ef8.chunk.js.map",
-    "index.html": "/open-nft-marketplace/index.html",
-    "precache-manifest.5e2abbfd677a83ea834920e3aadf661e.js": "/open-nft-marketplace/precache-manifest.5e2abbfd677a83ea834920e3aadf661e.js",
-    "service-worker.js": "/open-nft-marketplace/service-worker.js",
-    "static/css/2.37c27f5c.chunk.css.map": "/open-nft-marketplace/static/css/2.37c27f5c.chunk.css.map",
-    "static/css/main.4de67b71.chunk.css.map": "/open-nft-marketplace/static/css/main.4de67b71.chunk.css.map"
+    "main.css": "/nobel-litterati/static/css/main.4de67b71.chunk.css",
+    "main.js": "/nobel-litterati/static/js/main.0bf827a2.chunk.js",
+    "main.js.map": "/nobel-litterati/static/js/main.0bf827a2.chunk.js.map",
+    "runtime-main.js": "/nobel-litterati/static/js/runtime-main.c705de50.js",
+    "runtime-main.js.map": "/nobel-litterati/static/js/runtime-main.c705de50.js.map",
+    "static/css/2.37c27f5c.chunk.css": "/nobel-litterati/static/css/2.37c27f5c.chunk.css",
+    "static/js/2.205ac75a.chunk.js": "/nobel-litterati/static/js/2.205ac75a.chunk.js",
+    "static/js/2.205ac75a.chunk.js.map": "/nobel-litterati/static/js/2.205ac75a.chunk.js.map",
+    "index.html": "/nobel-litterati/index.html",
+    "precache-manifest.e8dac85559945b1acd3060269c1274a5.js": "/nobel-litterati/precache-manifest.e8dac85559945b1acd3060269c1274a5.js",
+    "service-worker.js": "/nobel-litterati/service-worker.js",
+    "static/css/2.37c27f5c.chunk.css.map": "/nobel-litterati/static/css/2.37c27f5c.chunk.css.map",
+    "static/css/main.4de67b71.chunk.css.map": "/nobel-litterati/static/css/main.4de67b71.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.da89fa50.js",
+    "static/js/runtime-main.c705de50.js",
     "static/css/2.37c27f5c.chunk.css",
-    "static/js/2.07a28ef8.chunk.js",
+    "static/js/2.205ac75a.chunk.js",
     "static/css/main.4de67b71.chunk.css",
-    "static/js/main.719d79d4.chunk.js"
+    "static/js/main.0bf827a2.chunk.js"
   ]
 }
