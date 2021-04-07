@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://codebuster22.github.io/open-nft-marketplace",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.6.0",
