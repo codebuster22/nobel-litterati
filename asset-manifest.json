@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/nobel-litterati/static/css/main.4de67b71.chunk.css",
-    "main.js": "/nobel-litterati/static/js/main.0bf827a2.chunk.js",
-    "main.js.map": "/nobel-litterati/static/js/main.0bf827a2.chunk.js.map",
-    "runtime-main.js": "/nobel-litterati/static/js/runtime-main.c705de50.js",
-    "runtime-main.js.map": "/nobel-litterati/static/js/runtime-main.c705de50.js.map",
-    "static/css/2.37c27f5c.chunk.css": "/nobel-litterati/static/css/2.37c27f5c.chunk.css",
-    "static/js/2.205ac75a.chunk.js": "/nobel-litterati/static/js/2.205ac75a.chunk.js",
-    "static/js/2.205ac75a.chunk.js.map": "/nobel-litterati/static/js/2.205ac75a.chunk.js.map",
+    "main.css": "/nobel-litterati/static/css/main.892e6d3d.chunk.css",
+    "main.js": "/nobel-litterati/static/js/main.e913d452.chunk.js",
+    "main.js.map": "/nobel-litterati/static/js/main.e913d452.chunk.js.map",
+    "runtime-main.js": "/nobel-litterati/static/js/runtime-main.42bdb69e.js",
+    "runtime-main.js.map": "/nobel-litterati/static/js/runtime-main.42bdb69e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/nobel-litterati/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0addfb56.chunk.js": "/nobel-litterati/static/js/2.0addfb56.chunk.js",
+    "static/js/2.0addfb56.chunk.js.map": "/nobel-litterati/static/js/2.0addfb56.chunk.js.map",
     "index.html": "/nobel-litterati/index.html",
-    "precache-manifest.e8dac85559945b1acd3060269c1274a5.js": "/nobel-litterati/precache-manifest.e8dac85559945b1acd3060269c1274a5.js",
-    "service-worker.js": "/nobel-litterati/service-worker.js",
-    "static/css/2.37c27f5c.chunk.css.map": "/nobel-litterati/static/css/2.37c27f5c.chunk.css.map",
-    "static/css/main.4de67b71.chunk.css.map": "/nobel-litterati/static/css/main.4de67b71.chunk.css.map"
+    "static/css/2.4c97ca4f.chunk.css.map": "/nobel-litterati/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.892e6d3d.chunk.css.map": "/nobel-litterati/static/css/main.892e6d3d.chunk.css.map",
+    "static/js/2.0addfb56.chunk.js.LICENSE.txt": "/nobel-litterati/static/js/2.0addfb56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c705de50.js",
-    "static/css/2.37c27f5c.chunk.css",
-    "static/js/2.205ac75a.chunk.js",
-    "static/css/main.4de67b71.chunk.css",
-    "static/js/main.0bf827a2.chunk.js"
+    "static/js/runtime-main.42bdb69e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0addfb56.chunk.js",
+    "static/css/main.892e6d3d.chunk.css",
+    "static/js/main.e913d452.chunk.js"
   ]
 }
