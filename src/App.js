@@ -43,6 +43,7 @@ class App extends Component {
 
       // Get the contract instance.
       this.networkId = await this.web3.eth.net.getId();
+      console.log(this.networkId);
 
       const OpenNFTNetwork = OpenNFTContract.networks[this.networkId];
       this.OpenNFTInstance = new this.web3.eth.Contract(
